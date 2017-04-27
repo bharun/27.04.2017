@@ -1,0 +1,6 @@
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe1\Aufgabe1\bin\Debug\Aufgabe1.exe.config
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe1\Aufgabe1\bin\Debug\Aufgabe1.exe
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe1\Aufgabe1\bin\Debug\Aufgabe1.pdb
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.exe
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.pdb

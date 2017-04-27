@@ -1,0 +1,5 @@
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe2\Aufgabe2\bin\Debug\Aufgabe2.exe.config
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe2\Aufgabe2\bin\Debug\Aufgabe2.exe
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe2\Aufgabe2\bin\Debug\Aufgabe2.pdb
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe2\Aufgabe2\obj\Debug\Aufgabe2.exe
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe2\Aufgabe2\obj\Debug\Aufgabe2.pdb

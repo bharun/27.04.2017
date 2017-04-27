@@ -1,0 +1,9 @@
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.exe.config
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.exe
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.pdb
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.Form1.resources
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.exe
+c:\users\harun\documents\visual studio 2017\Projects\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.pdb
